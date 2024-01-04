@@ -1,0 +1,25 @@
+2024/01/04-16:45:39.751 3a80 Reusing MANIFEST c:\Users\yuri.zoom\OneDrive - SERGIPE GAS S A - SERGAS\Área de Trabalho\bot_selenium\user-data\Yuri\Default\IndexedDB\https_portal.folhacerta.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-16:45:39.753 3a80 Recovering log #9
+2024/01/04-16:45:39.754 3a80 Reusing old log c:\Users\yuri.zoom\OneDrive - SERGIPE GAS S A - SERGAS\Área de Trabalho\bot_selenium\user-data\Yuri\Default\IndexedDB\https_portal.folhacerta.com_0.indexeddb.leveldb/000009.log 
+2024/01/04-16:45:39.755 3a80 Delete type=2 #8
+2024/01/04-16:45:39.984 4498 Level-0 table #14: started
+2024/01/04-16:45:39.989 4498 Level-0 table #14: 662 bytes OK
+2024/01/04-16:45:39.992 4498 Delete type=0 #9
+2024/01/04-16:45:39.994 3a80 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 116 : 1
+2024/01/04-16:45:39.995 3a80 Compacting 1@0 + 1@1 files
+2024/01/04-16:45:40.024 3a80 Generated table #15@0: 42 keys, 1232 bytes
+2024/01/04-16:45:40.024 3a80 Compacted 1@0 + 1@1 files => 1232 bytes
+2024/01/04-16:45:40.025 3a80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/04-16:45:40.027 3a80 Delete type=2 #14
+2024/01/04-16:45:40.028 3a80 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 116 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/04-16:45:41.994 4498 Level-0 table #17: started
+2024/01/04-16:45:41.998 4498 Level-0 table #17: 662 bytes OK
+2024/01/04-16:45:42.001 4498 Delete type=2 #11
+2024/01/04-16:45:42.001 4498 Delete type=0 #13
+2024/01/04-16:45:42.003 3a80 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 135 : 1
+2024/01/04-16:45:42.003 3a80 Compacting 1@0 + 1@1 files
+2024/01/04-16:45:42.008 3a80 Generated table #18@0: 42 keys, 1231 bytes
+2024/01/04-16:45:42.009 3a80 Compacted 1@0 + 1@1 files => 1231 bytes
+2024/01/04-16:45:42.010 3a80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/04-16:45:42.011 3a80 Delete type=2 #17
+2024/01/04-16:45:42.012 3a80 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 135 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

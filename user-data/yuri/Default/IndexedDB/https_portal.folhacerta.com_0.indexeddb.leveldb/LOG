@@ -1,0 +1,25 @@
+2024/01/04-16:52:01.248 5938 Reusing MANIFEST c:\Users\yuri.zoom\OneDrive - SERGIPE GAS S A - SERGAS\Área de Trabalho\bot_selenium\user-data\Yuri\Default\IndexedDB\https_portal.folhacerta.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/04-16:52:01.249 5938 Recovering log #16
+2024/01/04-16:52:01.250 5938 Reusing old log c:\Users\yuri.zoom\OneDrive - SERGIPE GAS S A - SERGAS\Área de Trabalho\bot_selenium\user-data\Yuri\Default\IndexedDB\https_portal.folhacerta.com_0.indexeddb.leveldb/000016.log 
+2024/01/04-16:52:01.250 5938 Delete type=2 #15
+2024/01/04-16:52:01.394 5cf4 Level-0 table #21: started
+2024/01/04-16:52:01.398 5cf4 Level-0 table #21: 660 bytes OK
+2024/01/04-16:52:01.401 5cf4 Delete type=0 #16
+2024/01/04-16:52:01.402 5cf4 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 154 : 1
+2024/01/04-16:52:01.403 5cf4 Compacting 1@0 + 1@1 files
+2024/01/04-16:52:01.407 5cf4 Generated table #22@0: 42 keys, 1233 bytes
+2024/01/04-16:52:01.408 5cf4 Compacted 1@0 + 1@1 files => 1233 bytes
+2024/01/04-16:52:01.409 5cf4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/04-16:52:01.411 5cf4 Delete type=2 #21
+2024/01/04-16:52:01.412 5cf4 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 154 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/04-16:52:02.663 5cf4 Level-0 table #24: started
+2024/01/04-16:52:02.667 5cf4 Level-0 table #24: 663 bytes OK
+2024/01/04-16:52:02.670 5cf4 Delete type=2 #18
+2024/01/04-16:52:02.670 5cf4 Delete type=0 #20
+2024/01/04-16:52:02.672 5938 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 173 : 1
+2024/01/04-16:52:02.672 5938 Compacting 1@0 + 1@1 files
+2024/01/04-16:52:02.677 5938 Generated table #25@0: 42 keys, 1231 bytes
+2024/01/04-16:52:02.677 5938 Compacted 1@0 + 1@1 files => 1231 bytes
+2024/01/04-16:52:02.678 5938 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/04-16:52:02.679 5938 Delete type=2 #24
+2024/01/04-16:52:02.680 5938 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 173 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
